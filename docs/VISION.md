@@ -3,6 +3,26 @@
 > Early project. This page describes **what we're building and why**. It is a
 > vision document, not a spec.
 
+## A walking stick, not a replacement
+
+Most of the industry is building AI — including frontier models — as a tool to
+**replace** developers and make work cheaper. We're building the opposite: AI as
+a **walking stick** — something that makes you more capable and keeps *you* in
+control. The machine carries the weight you'd rather not carry; you stay the one
+walking.
+
+That single idea runs through Neonmem and Neonmem Micro-AI both:
+
+- **Bad memory?** Not a problem — Neonmem gives your agent a persistent memory of
+  *your* project, and it reminds *you*.
+- **No big model on hand?** Not a problem — a micro-AI runs on its own and helps
+  with the one task it specializes in.
+- **Don't remember every Java trick, every DevOps secret, every project nuance?**
+  Not a problem — an orchestrator marshals small specialists for you.
+
+The point isn't to replace the developer. It's to make a developer — or anyone —
+better at the work they already do.
+
 ## Small, stateful AI
 
 Most of the industry is racing to build **bigger** models. We think a lot of real
